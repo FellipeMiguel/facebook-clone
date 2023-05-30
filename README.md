@@ -1,4 +1,4 @@
-# Snap
+# Facebook clone
 
 Este é um projeto clone do Facebook, construído com HTML, CSS e o framework Tailwind CSS. O objetivo deste projeto é reproduzir a aparência e funcionalidades básicas do site oficial do Spotify.
 
@@ -21,7 +21,7 @@ git clone https://github.com/FellipeMiguel/facebook-clone.git
 2. Navegue até o diretório do projeto:
 
 ```
-cd snap
+cd projeto-facebook
 ```
 
 3. Abra o arquivo `index.html` em um navegador web:
